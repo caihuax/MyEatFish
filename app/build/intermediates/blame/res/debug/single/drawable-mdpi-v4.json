@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\JavaScript\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_01.jpg",
+        "source": "D:\\JavaScript\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\bg_01.jpg"
+    },
+    {
+        "merged": "D:\\JavaScript\\MyEatFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_02.jpg",
+        "source": "D:\\JavaScript\\MyEatFish\\app\\src\\main\\res\\drawable-mdpi\\bg_02.jpg"
+    },
+    {
+        "merged": "D:\\JavaScript\\MyBeatPlane1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_02.jpg",
+        "source": "D:\\JavaScript\\MyBeatPlane1\\app\\src\\main\\res\\drawable-mdpi\\bg_02.jpg"
+    },
+    {
+        "merged": "D:\\JavaScript\\MyEatFish\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_01.jpg",
+        "source": "D:\\JavaScript\\MyEatFish\\app\\src\\main\\res\\drawable-mdpi\\bg_01.jpg"
+    }
+]

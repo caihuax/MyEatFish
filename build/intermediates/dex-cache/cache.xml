@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\JavaScript\MyEatFish\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a0d9328ae9281daf39abc698b1242084791516be">
+        <dex dex="D:\JavaScript\MyEatFish\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_97913a826412b8706111cb8f9b28f2b0c2b722bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaScript\MyEatFish\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a0aa8a4f92394c1cc0049389dcdcbab428ff93f9">
+        <dex dex="D:\JavaScript\MyEatFish\app\build\intermediates\pre-dexed\debug\instant-run_992e02102e82044b45ac253fab40ce314157ea17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\JavaScript\MyEatFish\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+
+</items>
